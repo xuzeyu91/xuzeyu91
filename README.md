@@ -36,7 +36,7 @@ Xu Zeyu, based in Wuhan, China. Microsoft MVP (AI Platform), Huawei Cloud Develo
 | **AI Agent 平台** | AntSK · WebCode · transwork               | 离线知识库、浏览器端编码 Agent、桌面 Agent 工作台 |
 | **.NET 开源基础设施** | GraphRag.Net · Windows-MCP.Net · MCPP.Net | 把 GraphRAG、MCP、函数调用带进 .NET 生态   |
 | **AIGC 内容工业化**  | BigBanana AI Director                     | 从剧本到成片的一站式 AI 短剧 / 漫剧生产流水线      |
-| **分享与社区**       | B 站 · CSDN · 知乎 · AIDotNet                | 持续输出 .NET 与 AI 工程实践             |
+| **分享与社区**       | B 站 · CSDN · 知乎 · 公众号 · AIDotNet                | 持续输出 .NET 与 AI 工程实践             |
 
 ---
 
@@ -67,13 +67,15 @@ Xu Zeyu, based in Wuhan, China. Microsoft MVP (AI Platform), Huawei Cloud Develo
 
 ## 06 — Elsewhere / 找到我
 
-![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square\&logo=bilibili\&logoColor=white)
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/1673184683)
 
-![CSDN](https://img.shields.io/badge/CSDN-Blog-FC5531?style=flat-square)
+[![CSDN](https://img.shields.io/badge/CSDN-Blog-FC5531?style=flat-square)](https://blog.csdn.net/u012094427)
 
-![Zhihu](https://img.shields.io/badge/Zhihu-0084FF?style=flat-square\&logo=zhihu\&logoColor=white)
+[![Zhihu](https://img.shields.io/badge/Zhihu-0084FF?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/xu-ze-yu-46)
 
-![AIDotNet](https://img.shields.io/badge/AIDotNet-Community-111827?style=flat-square)
+![微信公众号 · 老许的OPC超级个体之路](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-%E8%80%81%E8%AE%B8%E7%9A%84OPC%E8%B6%85%E7%BA%A7%E4%B8%AA%E4%BD%93%E4%B9%8B%E8%B7%AF-07C160?style=flat-square)
+
+[![AIDotNet](https://img.shields.io/badge/AIDotNet-Community-111827?style=flat-square)](https://github.com/AIDotNet)
 
 ---
 
