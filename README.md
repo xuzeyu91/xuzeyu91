@@ -14,7 +14,7 @@
 
 ## 01 — About / 关于我
 
-徐泽宇，武汉。微软 MVP（AI Platform）、华为云开发者专家、飞桨开发者专家，AIDotNet 核心成员。早年做 .NET、微服务与云原生，现在把主要精力放在 **AI Agent、LLM 应用工程化与开源工具链**上——从 Semantic Kernel、Kernel Memory 到 MCP 与 Agent 编排。喜欢把想法做成别人能直接跑起来的项目。
+许泽宇，武汉。微软 MVP（AI Platform）、华为云开发者专家、飞桨开发者专家，AIDotNet 核心成员。早年做 .NET、微服务与云原生，现在把主要精力放在 **AI Agent、LLM 应用工程化与开源工具链**上——从 Semantic Kernel、Kernel Memory 到 MCP 与 Agent 编排。喜欢把想法做成别人能直接跑起来的项目。
 
 Xu Zeyu, based in Wuhan, China. Microsoft MVP (AI Platform), Huawei Cloud Developer Expert, PaddlePaddle Developer Expert, core member of AIDotNet. Years of .NET, microservices and cloud-native work; now focused on **AI agents, LLM application engineering and open-source tooling** — from Semantic Kernel / Kernel Memory to MCP and agent orchestration. I like shipping things people can actually run.
 
