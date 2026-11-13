@@ -27,8 +27,6 @@ Xu Zeyu, based in Wuhan, China. Microsoft MVP (AI Platform), Huawei Cloud Develo
   <img src="assets/stats-light.svg" width="100%" alt="4.8k+ stars across flagship projects, 123 public repos, 210 followers, 9 years building in public">  
 </picture>
 
-<sub>数据快照 2026-11-13 · Stars 为六个旗舰项目之和，不含 fork 仓库 / Snapshot as of 2026-11-13 · stars summed across six flagship projects, forked repos excluded.</sub>
-
 ---
 
 ## 03 — What I work on / 在做的事
